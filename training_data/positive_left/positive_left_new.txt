@@ -1,0 +1,168 @@
+cup_left_edge_59.png 1 265 13 66 185 
+cup_left_edge_9.png 2 165 204 73 140 442 185 58 169 
+cup_left_edge_112.png 2 144 106 56 237 74 105 56 174 
+cup_left_edge_124.png 1 243 109 57 145 
+cup_left_edge_40.png 1 198 103 76 182 
+cup_left_edge_55.png 1 264 147 59 154 
+cup_left_edge_135.png 2 191 129 57 113 235 103 54 156 
+cup_left_edge_57.png 1 113 72 80 225 
+cup_left_edge_16.png 1 167 260 82 212 
+cup_left_edge_32.png 1 287 121 55 137 
+cup_left_edge_41.png 2 193 97 55 184 149 135 30 130 
+cup_left_edge_48.png 3 172 128 37 106 223 111 31 133 251 84 56 177 
+cup_left_edge_105.png 1 228 81 55 228 
+cup_left_edge_111.png 1 152 104 66 243 
+cup_left_edge_132.png 2 191 129 46 108 236 108 59 148 
+cup_left_edge_7.png 2 135 320 53 139 382 298 66 157 
+cup_left_edge_15.png 2 160 256 65 183 296 238 103 222 
+cup_left_edge_114.png 1 237 294 55 120 
+cup_left_edge_131.png 1 239 104 57 133 
+cup_left_edge_11.png 2 138 287 59 156 417 293 71 172 
+cup_left_edge_110.png 2 142 105 70 232 62 108 62 170 
+cup_left_edge_101.png 1 191 87 78 175 
+cup_left_edge_128.png 1 234 104 58 143 
+cup_left_edge_141.png 3 186 127 52 103 238 108 57 138 313 77 61 184 
+cup_left_edge_30.png 1 288 135 52 127 
+cup_left_edge_147.png 3 185 127 42 110 236 104 55 134 290 81 76 184 
+cup_left_edge_50.png 2 260 126 36 106 313 102 45 143 
+cup_left_edge_1.png 1 274 254 59 132 
+cup_left_edge_122.png 2 336 93 45 157 430 57 42 205 
+cup_left_edge_54.png 1 338 103 59 183 
+cup_left_edge_145.png 3 312 69 69 194 240 111 41 135 189 131 40 101 
+cup_left_edge_70.png 1 336 222 63 187 
+cup_left_edge_95.png 1 288 170 51 135 
+cup_left_edge_68.png 1 276 95 49 93 
+cup_left_edge_127.png 1 234 103 61 146 
+cup_left_edge_103.png 1 295 208 64 219 
+cup_left_edge_18.png 1 343 208 69 239 
+cup_left_edge_36.png 2 203 142 58 112 289 124 44 142 
+cup_left_edge_53.png 1 339 205 61 160 
+cup_left_edge_136.png 2 190 135 41 98 246 106 36 141 
+cup_left_edge_84.png 1 207 207 96 243 
+cup_left_edge_58.png 1 113 19 77 205 
+cup_left_edge_97.png 2 249 201 38 115 293 181 60 155 
+cup_left_edge_52.png 1 346 164 58 133 
+cup_left_edge_102.png 1 189 55 86 156 
+cup_left_edge_117.png 2 384 212 61 128 513 199 57 160 
+cup_left_edge_96.png 1 215 139 61 124 
+cup_left_edge_157.png 1 201 156 31 40 
+cup_left_edge_153.png 1 232 152 46 46 
+cup_left_edge_158.png 1 192 153 37 44 
+cup_left_edge_156.png 1 247 150 49 46 
+cup_left_edge_155.png 1 396 146 45 49 
+cup_left_edge_159.png 1 190 157 53 33 
+cup_left_edge_154.png 1 416 143 49 40 
+cup_left_edge_152.png 1 230 152 78 39 cup_left_edge_150.png 3 313 82 72 162 234 105 53 111 189 127 46 94 
+cup_left_edge_46.png 3 165 124 46 93 217 111 49 103 299 83 51 151 
+cup_left_edge_130.png 1 229 107 56 135 
+cup_left_edge_106.png 2 88 128 38 142 177 93 56 216 
+cup_left_edge_94.png 1 334 21 59 180 
+cup_left_edge_107.png 2 92 117 53 161 161 108 54 228 
+cup_left_edge_93.png 2 204 67 46 176 252 48 56 270 
+cup_left_edge_29.png 1 282 126 64 139 
+cup_left_edge_8.png 2 83 325 54 127 325 305 37 160 
+cup_left_edge_21.png 2 188 237 53 178 279 198 71 241 
+cup_left_edge_38.png 2 215 148 44 101 289 130 57 131 
+cup_left_edge_2.png 1 327 281 75 157 
+cup_left_edge_121.png 2 329 96 54 150 440 55 62 197 
+cup_left_edge_5.png 1 178 194 66 200 
+cup_left_edge_115.png 1 152 256 42 120 
+cup_left_edge_65.png 2 183 84 40 132 255 68 51 164 
+cup_left_edge_81.png 1 95 83 56 212 
+cup_left_edge_134.png 2 188 132 51 108 239 110 49 124 
+cup_left_edge_74.png 3 279 197 36 71 322 203 43 84 363 212 39 100 
+cup_left_edge_142.png 3 194 138 36 74 235 107 50 105 307 72 48 148 
+cup_left_edge_91.png 1 351 129 55 181 
+cup_left_edge_88.png 1 293 95 49 190 
+cup_left_edge_10.png 2 144 298 40 141 381 283 52 189 
+cup_left_edge_6.png 1 315 231 61 233 
+cup_left_edge_77.png 1 251 70 54 186 
+cup_left_edge_24.png 2 263 285 31 111 324 301 38 128 
+cup_left_edge_44.png 1 246 128 63 116 
+cup_left_edge_99.png 1 198 89 99 314 
+cup_left_edge_149.png 3 185 133 51 99 240 114 42 129 299 72 65 197 
+cup_left_edge_123.png 2 311 95 63 155 412 56 62 209 
+cup_left_edge_148.png 3 187 127 41 113 239 100 58 149 312 70 61 193 
+cup_left_edge_14.png 1 174 194 73 227 
+cup_left_edge_67.png 3 274 149 42 103 344 133 50 119 426 112 68 165 
+cup_left_edge_129.png 1 235 111 65 133 
+cup_left_edge_75.png 3 126 119 63 116 223 113 51 132 328 114 70 155 
+cup_left_edge_116.png 2 327 237 65 156 240 237 54 131 
+cup_left_edge_144.png 3 186 126 30 102 248 123 43 136 310 74 57 199 
+cup_left_edge_98.png 2 196 136 46 163 259 120 58 203 
+cup_left_edge_62.png 1 169 121 67 194 
+cup_left_edge_49.png 3 161 133 52 106 244 116 51 124 315 108 57 147 
+cup_left_edge_104.png 1 268 178 68 204 
+cup_left_edge_26.png 1 327 256 65 113 
+cup_left_edge_73.png 2 252 133 60 172 185 122 51 127 
+cup_left_edge_69.png 1 238 160 53 89 
+cup_left_edge_45.png 2 206 110 65 132 310 90 58 143 
+cup_left_edge_119.png 3 135 149 44 111 186 127 36 136 224 113 48 184 
+cup_left_edge_23.png 2 304 289 32 106 365 281 40 115 
+cup_left_edge_85.png 1 261 103 84 248 
+cup_left_edge_86.png 1 252 151 96 230 
+cup_left_edge_39.png 2 216 158 46 115 292 139 44 118 
+cup_left_edge_20.png 1 195 292 38 109 
+cup_left_edge_143.png 3 190 126 40 100 246 101 42 119 311 65 45 192 
+cup_left_edge_89.png 2 251 109 44 131 360 96 62 158 
+cup_left_edge_83.png 1 373 257 83 194 
+cup_left_edge_90.png 1 206 198 56 190 
+cup_left_edge_120.png 1 229 111 38 157 
+cup_left_edge_118.png 3 275 139 41 183 226 153 44 151 171 167 37 129 
+cup_left_edge_3.png 1 315 310 62 147 
+cup_left_edge_56.png 1 204 206 46 150 
+cup_left_edge_63.png 2 254 36 57 192 370 42 60 248 cup_left_edge_157.png 1 201 156 31 40 
+cup_left_edge_153.png 1 232 152 46 46 
+cup_left_edge_158.png 1 192 153 37 44 
+cup_left_edge_156.png 1 247 150 49 46 
+cup_left_edge_155.png 1 396 146 45 49 
+cup_left_edge_159.png 1 190 157 53 33 
+cup_left_edge_154.png 1 416 143 49 40 
+cup_left_edge_152.png 1 230 152 78 39 
+cup_left_edge_71.png 1 279 99 64 136 
+cup_left_edge_47.png 3 303 93 58 170 217 118 40 124 172 127 33 118 
+cup_left_edge_33.png 2 205 139 44 132 290 135 42 132 
+cup_left_edge_125.png 1 236 120 45 122 
+cup_left_edge_17.png 1 212 181 66 236 
+cup_left_edge_37.png 2 213 141 44 113 284 130 58 142 
+cup_left_edge_76.png 1 245 118 69 284 
+cup_left_edge_72.png 2 212 128 34 97 276 130 50 123 
+cup_left_edge_126.png 1 233 109 53 117 
+cup_left_edge_51.png 3 319 107 54 139 254 125 44 100 222 140 40 77 
+cup_left_edge_108.png 1 151 98 78 226 
+cup_left_edge_12.png 2 144 264 64 116 403 241 61 150 
+cup_left_edge_140.png 2 187 120 39 95 253 114 40 125 
+cup_left_edge_42.png 2 166 145 74 145 260 111 51 166 
+cup_left_edge_146.png 3 188 126 50 98 239 103 50 125 311 74 47 160 
+cup_left_edge_22.png 2 290 312 42 82 348 302 44 110 
+cup_left_edge_138.png 2 200 142 25 84 247 107 41 114 
+cup_left_edge_43.png 2 180 141 44 98 276 124 41 149 
+cup_left_edge_109.png 1 151 119 45 177 
+cup_left_edge_78.png 2 173 52 55 216 77 88 47 170 
+cup_left_edge_92.png 1 310 61 55 277 
+cup_left_edge_19.png 1 201 217 51 216 
+cup_left_edge_34.png 2 217 141 39 112 299 136 37 117 
+cup_left_edge_87.png 1 302 23 66 184 
+cup_left_edge_27.png 1 291 308 46 109 
+cup_left_edge_4.png 1 222 239 54 115 
+cup_left_edge_13.png 1 366 243 51 190 
+cup_left_edge_100.png 1 193 183 72 177 
+cup_left_edge_31.png 1 284 130 51 137 
+cup_left_edge_64.png 1 239 102 64 174 
+cup_left_edge_139.png 1 234 114 63 128 
+cup_left_edge_28.png 1 340 269 54 118 
+cup_left_edge_79.png 1 142 76 58 220 
+cup_left_edge_60.png 2 343 90 49 176 279 71 49 138 
+cup_left_edge_133.png 2 233 116 49 118 184 139 48 93 cup_left_edge_157.png 1 201 156 31 40 
+cup_left_edge_153.png 1 232 152 46 46 
+cup_left_edge_158.png 1 192 153 37 44 
+cup_left_edge_156.png 1 247 150 49 46 
+cup_left_edge_155.png 1 396 146 45 49 
+cup_left_edge_159.png 1 190 157 53 33 
+cup_left_edge_154.png 1 416 143 49 40 
+cup_left_edge_152.png 1 230 152 78 39 
+cup_left_edge_113.png 1 131 116 52 199 
+cup_left_edge_66.png 3 153 159 37 92 212 122 43 154 292 126 66 174 
+cup_left_edge_35.png 2 292 142 55 139 208 144 54 117 
+cup_left_edge_80.png 1 143 106 104 218 
+cup_left_edge_137.png 2 247 112 57 145 182 126 61 115 

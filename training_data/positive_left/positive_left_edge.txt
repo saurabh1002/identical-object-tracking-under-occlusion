@@ -1,0 +1,114 @@
+../training/positive_left/cup_left_edge_59.png 1 274 15 49 42 
+../training/positive_left/cup_left_edge_9.png 2 177 205 39 45 450 180 44 60 
+../training/positive_left/cup_left_edge_124.png 1 247 108 41 59 
+../training/positive_left/cup_left_edge_40.png 1 205 111 39 40 
+../training/positive_left/cup_left_edge_135.png 2 188 121 48 50 243 106 55 49 
+../training/positive_left/cup_left_edge_16.png 1 178 281 61 36 
+../training/positive_left/cup_left_edge_32.png 1 300 126 40 44 
+../training/positive_left/cup_left_edge_41.png 2 153 137 32 38 206 104 45 50 
+../training/positive_left/cup_left_edge_48.png 2 224 115 32 34 268 75 43 62 
+../training/positive_left/cup_left_edge_25.png 1 415 183 44 46 
+../training/positive_left/cup_left_edge_111.png 1 154 98 49 64 
+../training/positive_left/cup_left_edge_132.png 2 194 125 38 41 243 105 46 54 
+../training/positive_left/cup_left_edge_7.png 2 150 322 41 36 388 306 52 48 
+../training/positive_left/cup_left_edge_15.png 2 159 257 51 45 319 229 60 74 
+../training/positive_left/cup_left_edge_131.png 1 237 97 51 65 
+../training/positive_left/cup_left_edge_11.png 2 153 290 52 50 440 281 56 73 
+../training/positive_left/cup_left_edge_128.png 1 238 106 45 45 
+../training/positive_left/cup_left_edge_141.png 3 192 125 35 39 246 95 49 60 315 54 61 85 
+../training/positive_left/cup_left_edge_30.png 1 280 121 67 63 
+../training/positive_left/cup_left_edge_147.png 2 307 76 70 58 185 125 53 40 
+../training/positive_left/cup_left_edge_50.png 2 262 121 35 41 315 89 49 62 
+../training/positive_left/cup_left_edge_1.png 1 284 257 42 47 
+../training/positive_left/cup_left_edge_122.png 2 337 100 43 49 419 45 57 82 
+../training/positive_left/cup_left_edge_54.png 1 358 94 49 50 
+../training/positive_left/cup_left_edge_145.png 3 308 74 82 63 240 103 49 58 188 123 38 45 
+../training/positive_left/cup_left_edge_95.png 1 285 161 38 55 
+../training/positive_left/cup_left_edge_68.png 1 278 79 45 50 
+../training/positive_left/cup_left_edge_127.png 1 239 103 50 56 
+../training/positive_left/cup_left_edge_18.png 1 345 209 79 95 
+../training/positive_left/cup_left_edge_36.png 2 209 141 51 38 289 120 56 52 
+../training/positive_left/cup_left_edge_136.png 2 243 102 44 55 193 124 42 40 
+../training/positive_left/cup_left_edge_58.png 1 125 18 44 50 
+../training/positive_left/cup_left_edge_97.png 2 262 198 32 39 301 178 45 51 
+../training/positive_left/cup_left_edge_52.png 1 363 162 35 42 
+../training/positive_left/cup_left_edge_102.png 1 206 49 60 51 
+../training/positive_left/cup_left_edge_96.png 1 223 129 52 58 
+../training/positive_left/cup_left_edge_150.png 3 189 116 46 48 241 102 52 67 314 64 59 74 
+../training/positive_left/cup_left_edge_46.png 3 309 85 62 59 217 106 51 53 161 119 52 44 
+../training/positive_left/cup_left_edge_130.png 1 239 108 51 51 
+../training/positive_left/cup_left_edge_94.png 1 342 10 56 60 
+../training/positive_left/cup_left_edge_107.png 1 92 100 59 68 
+../training/positive_left/cup_left_edge_93.png 2 211 57 56 52 267 34 54 72 
+../training/positive_left/cup_left_edge_29.png 1 294 132 43 42 
+../training/positive_left/cup_left_edge_8.png 2 89 328 50 43 324 299 52 60 
+../training/positive_left/cup_left_edge_21.png 2 292 187 65 77 178 231 54 74 
+../training/positive_left/cup_left_edge_38.png 2 218 131 42 56 296 124 48 44 
+../training/positive_left/cup_left_edge_2.png 1 354 276 48 52 
+../training/positive_left/cup_left_edge_121.png 2 329 81 51 64 434 41 76 76 
+../training/positive_left/cup_left_edge_5.png 1 174 193 89 88 
+../training/positive_left/cup_left_edge_65.png 2 175 62 59 66 250 54 74 74 
+../training/positive_left/cup_left_edge_81.png 1 94 88 60 54 
+../training/positive_left/cup_left_edge_134.png 2 188 126 48 51 236 105 66 75 
+../training/positive_left/cup_left_edge_142.png 3 303 62 82 82 233 104 55 47 186 126 42 39 
+../training/positive_left/cup_left_edge_10.png 2 151 304 50 45 376 279 64 82 
+../training/positive_left/cup_left_edge_6.png 1 315 231 80 69 
+../training/positive_left/cup_left_edge_77.png 1 261 48 54 62 
+../training/positive_left/cup_left_edge_44.png 1 251 105 64 55 
+../training/positive_left/cup_left_edge_149.png 3 184 126 44 34 235 104 54 48 308 68 57 62 
+../training/positive_left/cup_left_edge_123.png 2 309 85 66 63 411 52 66 76 
+../training/positive_left/cup_left_edge_148.png 3 312 69 61 60 235 103 48 47 183 123 44 36 
+../training/positive_left/cup_left_edge_14.png 1 178 189 70 82 
+../training/positive_left/cup_left_edge_67.png 3 278 132 45 48 347 132 49 45 436 112 57 44 
+../training/positive_left/cup_left_edge_129.png 1 246 106 43 53 
+../training/positive_left/cup_left_edge_144.png 3 181 120 51 46 242 110 49 34 305 68 61 64 
+../training/positive_left/cup_left_edge_98.png 2 198 132 49 40 261 121 55 47 
+../training/positive_left/cup_left_edge_49.png 2 312 88 62 61 244 114 53 39 
+../training/positive_left/cup_left_edge_104.png 1 276 174 77 43 
+../training/positive_left/cup_left_edge_26.png 1 337 246 51 42 
+../training/positive_left/cup_left_edge_69.png 1 245 161 30 31 
+../training/positive_left/cup_left_edge_45.png 2 211 97 61 66 299 71 71 72 
+../training/positive_left/cup_left_edge_119.png 2 220 102 53 54 178 127 56 42 
+../training/positive_left/cup_left_edge_23.png 2 306 282 45 36 363 271 50 41 
+../training/positive_left/cup_left_edge_39.png 2 223 144 45 39 304 120 48 62 
+../training/positive_left/cup_left_edge_20.png 1 196 289 48 39 
+../training/positive_left/cup_left_edge_143.png 3 187 131 40 39 248 96 42 59 309 66 60 66 
+../training/positive_left/cup_left_edge_120.png 1 225 95 50 62 
+../training/positive_left/cup_left_edge_118.png 2 272 125 36 60 220 150 50 41 
+../training/positive_left/cup_left_edge_3.png 1 320 301 53 51 
+../training/positive_left/cup_left_edge_63.png 2 271 45 47 53 376 34 73 69 
+../training/positive_left/cup_left_edge_71.png 1 293 109 51 44 
+../training/positive_left/cup_left_edge_47.png 3 303 80 74 78 209 112 60 45 163 124 46 34 
+../training/positive_left/cup_left_edge_33.png 2 203 133 60 50 288 118 51 53 
+../training/positive_left/cup_left_edge_125.png 1 239 95 63 61 
+../training/positive_left/cup_left_edge_17.png 1 220 180 62 63 
+../training/positive_left/cup_left_edge_37.png 2 210 136 47 46 291 123 53 53 
+../training/positive_left/cup_left_edge_76.png 1 251 118 63 74 
+../training/positive_left/cup_left_edge_126.png 1 236 104 64 48 
+../training/positive_left/cup_left_edge_51.png 3 222 132 39 30 266 112 33 43 318 91 37 47 
+../training/positive_left/cup_left_edge_108.png 1 95 106 55 50 
+../training/positive_left/cup_left_edge_12.png 2 167 263 39 32 402 226 62 77 
+../training/positive_left/cup_left_edge_140.png 1 185 121 53 55 
+../training/positive_left/cup_left_edge_42.png 2 178 141 54 42 259 98 64 71 
+../training/positive_left/cup_left_edge_146.png 3 195 133 29 28 237 102 60 59 307 73 56 57 
+../training/positive_left/cup_left_edge_82.png 1 98 50 68 48 
+../training/positive_left/cup_left_edge_138.png 2 190 128 42 38 232 98 51 54 
+../training/positive_left/cup_left_edge_43.png 2 187 133 47 52 267 102 57 67 
+../training/positive_left/cup_left_edge_109.png 1 154 95 57 51 
+../training/positive_left/cup_left_edge_78.png 2 183 40 55 56 75 73 75 83 
+../training/positive_left/cup_left_edge_92.png 1 324 44 107 115 
+../training/positive_left/cup_left_edge_19.png 1 193 202 79 89 
+../training/positive_left/cup_left_edge_34.png 2 196 120 66 65 289 114 56 44 
+../training/positive_left/cup_left_edge_87.png 1 311 12 85 76 
+../training/positive_left/cup_left_edge_4.png 1 218 225 58 54 
+../training/positive_left/cup_left_edge_13.png 1 370 232 67 58 
+../training/positive_left/cup_left_edge_31.png 1 285 112 66 65 
+../training/positive_left/cup_left_edge_139.png 1 240 95 57 57 
+../training/positive_left/cup_left_edge_61.png 1 355 67 68 54 
+../training/positive_left/cup_left_edge_28.png 1 333 259 67 51 
+../training/positive_left/cup_left_edge_79.png 2 131 68 66 61 80 95 59 57 
+../training/positive_left/cup_left_edge_133.png 1 230 103 56 56 
+../training/positive_left/cup_left_edge_66.png 3 282 115 64 54 204 127 61 47 145 146 50 35 
+../training/positive_left/cup_left_edge_35.png 2 204 141 66 40 286 121 53 54 
+../training/positive_left/cup_left_edge_80.png 1 141 91 72 71 
+../training/positive_left/cup_left_edge_137.png 2 188 121 53 47 241 96 54 58 
